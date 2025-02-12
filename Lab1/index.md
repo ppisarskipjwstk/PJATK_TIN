@@ -14,3 +14,7 @@
 Treść
 
 [![](assets/img.jpg)](assets/img.jpg)
+
+### 2. Test zadanie 2
+
+Treść
