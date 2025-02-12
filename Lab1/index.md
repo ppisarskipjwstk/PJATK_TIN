@@ -14,5 +14,3 @@
 Treść
 
 [![](assets/img.jpg)](assets/img.jpg)
-
-[Test Image](assets/img.jpg)
