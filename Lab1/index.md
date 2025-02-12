@@ -13,4 +13,4 @@
 
 Treść
 
-[Test Image](assets/img1.jpg)
+[Test Image](assets/img.jpg)
