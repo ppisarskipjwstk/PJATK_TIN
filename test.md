@@ -1,3 +1,0 @@
-### First file
-
-Sample content
