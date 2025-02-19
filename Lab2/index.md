@@ -1,6 +1,6 @@
 ## Laboratorium 2
 
-# Responsywność stron www
+# Zaawansowany CSS
 
 ## Teoria
 
