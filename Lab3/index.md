@@ -4,7 +4,7 @@
 
 ## Teoria
 
-TODO link
+* [Wykład Preprocesory CSS](http://users.pja.edu.pl/~ppisarski/prez/new/TIN_Preprocesory_CSS.pdf)
 
 ## Zadania
 
