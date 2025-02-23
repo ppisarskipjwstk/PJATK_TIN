@@ -1,10 +1,11 @@
 ## Laboratorium 2
 
-# Responsywność stron www
+# Zaawansowany CSS
 
 ## Teoria
 
-TODO link
+* [Wykład Zaawansowany CSS](http://users.pja.edu.pl/~ppisarski/prez/new/TIN_Zaawansowany_CSS.pdf)
+
 
 ## Zadania
 
