@@ -4,7 +4,7 @@
 
 ## Teoria
 
-* [Wykład JS]https://users.pja.edu.pl/~ppisarski/prez/js/1.html)
+* [Wykład JS](https://users.pja.edu.pl/~ppisarski/prez/js/1.html)
 
 ## Zadania
 
