@@ -45,3 +45,16 @@ Ala ma *a i psa
 ```
 ['*let', '*ka', '*y', 'pies'] //wynik
 ``` 
+
+### 4. Sortowanie
+
+Napisz funkcję, którą będzie można użyć w funkcji `array.sort()`, umożliwiającą posortowanie tablicy wg reszty z dzielenia przez 3.
+
+> let arr = [10, 11, 13, 12, 14, 15];
+> let sorted = arr.sort(mojafunkcja);
+
+```
+[12, 15, 10, 13, 11, 14]
+```
+
+
