@@ -21,7 +21,7 @@ Tekst i obrazek mogą być dowolne. Ważne by w dokumencie HTML znalazły się t
 * lista linków z zagnieżdżoną pod-listą
 * obrazek
 * tabelka z wierszem nagłówkowym
-* nagłówki i akapity z teksem
+* nagłówki i akapity z tekstem
 
 ### 2. Strona z CSS
 
