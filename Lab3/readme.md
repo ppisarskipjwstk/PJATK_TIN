@@ -35,7 +35,7 @@ Aby skompilować LESS do CSS użyj jednego z poniższych:
 
 Wszystkie powyższe kroki powtórz dla technologii SCSS. Porównaj obie strony, czy wyglągają tak samo.
 
-Wtyczka dla Visual Studio Code: Live Sass Compiler.
+Wtyczka dla Visual Studio Code: Easy Sass lub Live Sass Compiler.
 
 
 
