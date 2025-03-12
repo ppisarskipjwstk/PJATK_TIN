@@ -63,23 +63,8 @@ Napisz funkcję liczącą pole wybranej figury (prostokąt,
    switch. Każda figura powinna mieć osobną funkcję do liczenia
    pola.
 
-### 8. Pola figur: callback
-Napisz funkcję liczącą pole wybranej figury (prostokąt,
-   trapez, równoległobok, trójkąt) bez użycia instrukcji
-   warunkowej (bez if, switch, pętli). Wykorzystaj funkcje
-   anonimowe i callback.
-
-### 9. Pascal
+### 8. Pascal
 Napisz funkcję wypisującą w konsoli trójkąt Pascala o
    wysokości podanej jako parametr.
 
-### 10. Cenzura
-Napisz funkcję cenzurującą zdanie. Funkcja ma otrzymać 2
-    parametry: tablicę niedozwolonych słów oraz zdanie do
-    ocenzurowania. Każde niedozwolone słowo ma zostać zastąpione
-    znakiem *.
 
-> cenzura([‘Ala’, ‘kot’], ‘Ala ma kota i psa’ );
-```
-* ma *a i psa
-```
