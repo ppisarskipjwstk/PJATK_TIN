@@ -40,6 +40,7 @@ Ala ma *a i psa
 * Efektem działania powinno być ocenzurowanie całej tablicy słów
 
 > let tablica = ['kotlet', 'kotka', 'koty', 'pies'];
+> 
 > let wynik = tablica.map(cenzura, {slowo: 'kot'});
 
 ```
@@ -51,6 +52,7 @@ Ala ma *a i psa
 Napisz funkcję, którą będzie można użyć w funkcji `array.sort()`, umożliwiającą posortowanie tablicy wg reszty z dzielenia przez 3.
 
 > let arr = [10, 11, 13, 12, 14, 15];
+> 
 > let sorted = arr.sort(mojafunkcja);
 
 ```
