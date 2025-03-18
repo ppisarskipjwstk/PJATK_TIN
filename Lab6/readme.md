@@ -59,4 +59,17 @@ Napisz funkcję, którą będzie można użyć w funkcji `array.sort()`, umożli
 [12, 15, 10, 13, 11, 14]
 ```
 
+### 5. Filtrowanie
+
+Dana jest tablica dwuwymiarowa. Każdy z jej elementów sam jest tablicą, zawierającą kolejno: imię, nazwisko, wiek. Np: `['Jan', 'Kowalski', 21]`.
+
+Napisz funkcję, z użyciem `array.filter()`, która wyfiltruje wszystkie osoby z tablicy o wieku powyżej 20 lat.
+
+> let arr = [ ['Jan', 'Kowalski', 21], ['Anna', 'Nowak', 19], ['Jan', 'Trzeci', 27] ];
+>
+> let x = arr.filter(mojafunkcja);
+
+```
+[ ['Jan', 'Kowalski', 21], ['Jan', 'Trzeci', 27], ]
+```
 
