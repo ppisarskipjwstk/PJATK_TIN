@@ -73,3 +73,15 @@ Napisz funkcję, z użyciem `array.filter()`, która wyfiltruje wszystkie osoby 
 [ ['Jan', 'Kowalski', 21], ['Jan', 'Trzeci', 27], ]
 ```
 
+### 6. Mapowanie
+
+Napisz funkcję, która wykona działanie na tablicy z poprzedniego zadania, aby wynik wyglądał jak na przykładzie poniżej. Użyj `array.map()`.
+
+```
+[
+  'Jan | Kowalski | 21',
+  'Anna | Nowak | 19',
+  'Jan | Trzeci | 27'
+]
+```
+
