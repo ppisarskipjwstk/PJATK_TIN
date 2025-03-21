@@ -46,7 +46,3 @@ Przy pomocy HTML, CSS, JS zbuduj galerię zdjęć typu Lightbox bez używania go
 
 [Przykład](https://www.cssscript.com/demo/modal-image-gallery-swg/) 
 
-
-
-
-

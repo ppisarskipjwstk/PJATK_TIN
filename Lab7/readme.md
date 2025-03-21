@@ -4,7 +4,8 @@
 
 ## Teoria
 
-* [Wykład Programowanie Obiektowe In Progress]()
+* [Wykład Programowanie Obiektowe](https://users.pja.edu.pl/~ppisarski/prez/new/TIN_JS_Programowanie_Obiektowe.pdf)
+
 
 ## Zadania
 
