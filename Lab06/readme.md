@@ -26,7 +26,7 @@ Zadanie liczące pola figur (zajęcia 5, numer 7) przekształć by działało z 
 Napisz funkcję cenzurującą zdanie. 
 
 * Funkcja ma otrzymać 2 parametry: zdanie do cenzurowania i niedozwolone słowo.
-* Niedozwlone słowo ma zostać zastąpione znakiem `*`.
+* Niedozwolone słowo ma zostać zastąpione znakiem `*`.
 
 > cenzura("Ala ma kota i psa", "kot");
 ```
@@ -37,7 +37,7 @@ Ala ma *a i psa
 ### 3. Cenzura masowa
 
 * Przerób swoją funkcję cenzurującą zdanie, by działała jako parametr funkcji `array.map()`.
-* Efektem działania powinno być ocenzurowanie całej tablicy słów
+* Efektem działania powinno być ocenzurowanie całej tablicy słów.
 
 > let tablica = ['kotlet', 'kotka', 'koty', 'pies'];
 > 
