@@ -41,7 +41,7 @@ Ala ma *a i psa
 
 > let tablica = ['kotlet', 'kotka', 'koty', 'pies'];
 > 
-> let wynik = tablica.map(cenzura, {slowo: 'kot'});
+> let wynik = tablica.map( //tu będzie parametr - zmodyfikowana funkcja...
 
 ```
 ['*let', '*ka', '*y', 'pies'] //wynik
