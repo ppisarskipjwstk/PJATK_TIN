@@ -8,7 +8,7 @@
 
 ## Zadania
 
-### 2. Prosta strona www z wykorzystaniem AJAX
+### 1. Prosta strona www z wykorzystaniem AJAX
 
 Pod adresem:
 
