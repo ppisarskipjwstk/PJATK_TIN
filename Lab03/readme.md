@@ -1,4 +1,4 @@
-## Laboratorium 2
+## Laboratorium 3
 
 # Zaawansowany CSS
 
