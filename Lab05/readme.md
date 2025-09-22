@@ -1,4 +1,4 @@
-## Laboratorium 7
+## Laboratorium 5
 
 # JavaScript - Programowanie Obiektowe
 
