@@ -1,4 +1,4 @@
-## Laboratorium 5
+## Laboratorium 4
 
 # Podstawy Javascript
 
