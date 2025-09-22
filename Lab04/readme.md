@@ -63,8 +63,3 @@ Napisz funkcję liczącą pole wybranej figury (prostokąt,
    switch. Każda figura powinna mieć osobną funkcję do liczenia
    pola.
 
-### 8. Pascal
-Napisz funkcję wypisującą w konsoli trójkąt Pascala o
-   wysokości podanej jako parametr.
-
-
