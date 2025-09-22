@@ -8,21 +8,7 @@
 
 ## Zadania
 
-### 1. Dokument HTML
-
-Stwórz dokument HTML, który będzie wyglądał podobnie jak na poniższym projekcie:
-
-[![](assets/1_1.png)](assets/1_1.png)
-
-_Strona HTML_
-
-Tekst i obrazek mogą być dowolne. Ważne by w dokumencie HTML znalazły się takie elementy, jak:
-* lista linków z zagnieżdżoną pod-listą
-* obrazek
-* tabelka z wierszem nagłówkowym
-* nagłówki i akapity z tekstem
-
-### 2. Strona z CSS
+### 1. Strona z CSS
 
 
 Kod HTML z zadania 1 otrzymał style CSS. Wygląda teraz jak poniżej.
@@ -42,7 +28,7 @@ Stwórz style CSS by Twoja strona z poprzedniego zadania wyglądała podobnie. N
 * Co drugi wiersz tabelki ma inny kolor
 
 
-### 3. Strona z CSS - wersja z rozwijanym menu 
+### 2. Strona z CSS - wersja z rozwijanym menu 
 
 Strona www z poprzednich zadań otrzymała nowe style, zgodnie z poniższym rysunkiem:
 
