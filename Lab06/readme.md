@@ -1,4 +1,4 @@
-## Laboratorium 8
+## Laboratorium 6
 
 # DOM
 
