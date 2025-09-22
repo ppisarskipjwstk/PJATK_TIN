@@ -1,4 +1,4 @@
-## Laboratorium 9
+## Laboratorium 7
 
 # DOM - zdarzenia
 
