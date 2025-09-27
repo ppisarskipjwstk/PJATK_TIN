@@ -1,6 +1,6 @@
 ## PJATK
 
-Studia dzienne
+Studia zaoczne
 
 Materiały do zajęć z przedmiotu 
 
