@@ -10,7 +10,7 @@
 
 ### 1. Samochody tabelka
 
-Stwórz tablicę obiektów typu auto (Lab7, zadanie 1).
+Stwórz tablicę obiektów typu auto (Lab5, zadanie 1).
 
 ```
  auto {rok, przebieg, cena_wyjsciowa, cena_koncowa}.
@@ -20,7 +20,7 @@ z tych obiektów. Umieść tabelkę na stronie www przy pomocy JS.
 
 ### 2. Studenci - strona z akordeonem
 
-Stwórz tablicę obiektów typu student (Lab7, zadanie 2).
+Stwórz tablicę obiektów typu student (Lab5, zadanie 2).
 
 ```
  student {
